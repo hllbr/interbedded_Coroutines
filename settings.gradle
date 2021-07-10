@@ -1,0 +1,2 @@
+rootProject.name = "interbedded_Coroutines"
+include ':app'
